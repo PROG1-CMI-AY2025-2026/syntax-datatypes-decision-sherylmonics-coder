@@ -1,0 +1,20 @@
+using System;
+
+namespace MyApplication
+{
+  class Program
+  {
+    static void Main(string[] args)	
+	{
+	 string name = "Sheryl Reyes";
+	 Console.WriteLine(" Hi my name is " + name);
+	 int age = 18;
+	 Console.WriteLine(" I am " + age + " years old ");
+	 string Qc = " Quezon City ";
+	 Console.WriteLine(" I was born in " + Qc);
+	 char sex = 'F';
+	 Console.WriteLine(" My sex is " + sex);
+	}
+		
+  }
+}
